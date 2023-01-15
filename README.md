@@ -1,5 +1,33 @@
 # bookmarks
 my bookmarks I use;
+OS
+
+
+```md
+TEMPLATE
+
+<details><summary> tempalte_title </summary>
+
+- A
+  - A.a
+  - A.b
+
+</details>
+
+```
+
+
+<details><summary> operating systems </summary>
+
+- LINUX
+  - https://www.qubes-os.org
+  - https://scientificlinux.org/
+- WINDOWS
+  - xp
+  - w10
+
+
+</details>
 
 
 <details><summary> Organizations </summary>
