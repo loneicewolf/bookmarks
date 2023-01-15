@@ -33,6 +33,7 @@ Category A
 </details>
 
 
+
 <details><summary> Organizations </summary>
 
 category A
@@ -48,6 +49,8 @@ category B
 </details>
 
 
+
+
 <details><summary> Github Repos </summary>
 
 Category A
@@ -56,18 +59,13 @@ Category A
 - https://github.com/loneicewolf/LOJAX
 - https://github.com/loneicewolf/DotFiles
 
-</details>
-
-
-
-
-<details><summary> Notes </summary>
- 
-Category A
+Category B
 - https://github.com/loneicewolf/PHYSICS
 - https://github.com/NotAnoobis/OSINT-full-guide
 
 </details>
+
+
 
 
 
