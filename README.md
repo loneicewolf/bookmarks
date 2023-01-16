@@ -17,6 +17,28 @@ TEMPLATE
 ```
 
 
+
+***
+
+<details><summary> Organizations </summary>
+
+`category A`
+- https://home.cern/
+- https://security.web.cern.ch/home/en/index.shtml
+  - https://security.web.cern.ch/advisories/advisories.shtml
+
+
+`category B`
+- https://fra.se/
+  - https://challenge.fra.se/
+
+
+
+</details>
+
+***
+
+
 <details><summary> operating systems </summary>
 
 Category A
@@ -33,20 +55,6 @@ Category A
 </details>
 
 
-
-<details><summary> Organizations </summary>
-
-category A
-- https://home.cern/
-- https://security.web.cern.ch/home/en/index.shtml
-  - https://security.web.cern.ch/advisories/advisories.shtml
-
-
-category B
-- https://fra.se/
-
-
-</details>
 
 
 
