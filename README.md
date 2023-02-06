@@ -4,6 +4,7 @@ OS
 
 Unsorted:
 - https://ghidra-sre.org/
+- https://arstechnica.com/information-technology/2015/02/how-do-i-stop-this-virus-equation-group-victim-pleaded-for-help-online/
 
 
 ```md
