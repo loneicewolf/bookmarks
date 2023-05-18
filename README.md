@@ -1,26 +1,17 @@
 # bookmarks
 my bookmarks I use;
-OS
-
-Unsorted:
-- https://ghidra-sre.org/
-
-```md
-TEMPLATE
-
-<details><summary> tempalte_title </summary>
-
-- A
-  - A.a
-  - A.b
-
-</details>
-
-```
-
 
 
 ***
+
+
+
+general bookmarks
+- https://asktheobvious.onrender.com/ a fun site a friend made, quite neat.
+
+
+***
+
 
 <details><summary> Organizations </summary>
 
